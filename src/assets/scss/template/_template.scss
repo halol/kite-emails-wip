@@ -1,0 +1,19 @@
+// These are the styles to make some of the templates look extra nice.
+// Feel free to remove these styles for production!
+
+// Body Styles
+body,
+html,
+.body {
+  line-height: 1.5;
+}
+
+.container {
+  border-radius: 8px;
+  box-shadow: 0 4px 24px rgba(black, 0.05);
+}
+
+.no-background, .footer {
+  background: transparent!important;
+  box-shadow: none;
+}
